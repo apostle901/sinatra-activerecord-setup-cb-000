@@ -15,7 +15,7 @@ group :development do
 	gem 'tux'
 	gem 'sqlite3'
 end
-    
+
 group :test do
   gem 'rspec'
   gem 'capybara'
